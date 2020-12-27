@@ -10,4 +10,5 @@ An Sample files are given . Just copy these file to the input folder. you see th
 Todecode folder is created in output directory .
 
 Requirements:
+Python3.6
 Tested on windows and should work with unix based systems.
