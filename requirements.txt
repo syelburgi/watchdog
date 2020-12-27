@@ -1,0 +1,10 @@
+appdirs==1.4.4
+commonregex==1.5.4
+distlib==0.3.1
+filelock==3.0.12
+future==0.18.2
+pycryptodomex==3.9.9
+pyzipper==0.3.4
+six==1.15.0
+virtualenv==20.2.2
+watchdog==1.0.1
