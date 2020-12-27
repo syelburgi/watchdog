@@ -1,0 +1,1 @@
+Another thread, will lookinto todecode folder and unzip the file and does pii filtering, remove if any PII found and copy the context to output folder
